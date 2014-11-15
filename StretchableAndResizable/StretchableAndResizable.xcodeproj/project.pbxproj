@@ -14,6 +14,7 @@
 		E4709D401A165D0B00AE79D4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4709D3F1A165D0B00AE79D4 /* Images.xcassets */; };
 		E4709D431A165D0B00AE79D4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4709D411A165D0B00AE79D4 /* LaunchScreen.xib */; };
 		E4709D4F1A165D0B00AE79D4 /* StretchableAndResizableTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E4709D4E1A165D0B00AE79D4 /* StretchableAndResizableTests.m */; };
+		E4709D591A1667EA00AE79D4 /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = E4709D581A1667EA00AE79D4 /* red.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		E4709D481A165D0B00AE79D4 /* StretchableAndResizableTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StretchableAndResizableTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4709D4D1A165D0B00AE79D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4709D4E1A165D0B00AE79D4 /* StretchableAndResizableTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StretchableAndResizableTests.m; sourceTree = "<group>"; };
+		E4709D581A1667EA00AE79D4 /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		E4709D321A165D0B00AE79D4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E4709D581A1667EA00AE79D4 /* red.png */,
 				E4709D331A165D0B00AE79D4 /* Info.plist */,
 				E4709D341A165D0B00AE79D4 /* main.m */,
 			);
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4709D3E1A165D0B00AE79D4 /* Main.storyboard in Resources */,
+				E4709D591A1667EA00AE79D4 /* red.png in Resources */,
 				E4709D431A165D0B00AE79D4 /* LaunchScreen.xib in Resources */,
 				E4709D401A165D0B00AE79D4 /* Images.xcassets in Resources */,
 			);
